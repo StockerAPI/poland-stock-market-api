@@ -8,9 +8,9 @@ Kun Data provides a token-authenticated API stack for developers who need Poland
 
 This repository is focused on Poland coverage with support for GPW and is designed for teams building broker dashboards, watchlists, quant tools, stock screeners, mobile apps, and market overview pages.
 
-## Why Developers Search For This
+## Common Integration Needs
 
-Developers usually need one or more of these:
+Most teams integrating market data need one or more of these capabilities:
 
 - Real-time Poland stock market API
 - WebSocket streaming quotes
@@ -68,10 +68,6 @@ The current API stack follows a straightforward model:
 - Snapshot requests support `market`, `venue`, `symbol`, `symbols`, `ticker`, and `tickers`
 - WebSocket subscriptions support market-wide, exchange-level, and symbol-level subscriptions
 - HTTP requests can use bearer authentication and WebSocket connections use token query auth
-
-## SEO Keywords
-
-`Poland stock market API | GPW API | Warsaw Stock Exchange API | Poland stock data API`
 
 ## Links
 
